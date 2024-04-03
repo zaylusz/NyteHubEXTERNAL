@@ -1,4 +1,4 @@
-Hello, thanks for downloading! We appretiate your payment this helps us support our other applications!
+Hello, thanks for downloading! We appretiate you this helps us support our other applications!
 
 To get started
 1.) Run the Requirements.exe this will download all of the latest packages to your PC so that our app can run, once you have run the file a python setup would be downloaded. (IF YOU HAVE PYTHON ALREADY CLOSE OUT) then 
